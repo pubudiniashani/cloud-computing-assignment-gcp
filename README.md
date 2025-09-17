@@ -1,13 +1,10 @@
-# Cloud Enabled Deployment In Action with AWS
+# Cloud Deployment - GCP
 
-This repository contains four projects:
+In this project the SpringBoot application course-service is connected to MySQL database which is host 
+in Google Cloud Platform
 
-- course-service (Spring Boot + MySQL)
-- student-service (Spring Boot + MongoDB)
-- media-service (Spring Boot + Local file storage, can be extended to S3/MinIO)
-- frontend-app (React + TypeScript)
-
-[Watch Video here](https://drive.google.com/file/d/1hPSzMYLHk108c7n45agLWmKI8v0qYd9g/view?usp=sharing)
+Here is the demo video of the project.
+[Click here to watch video](https://drive.google.com/file/d/1hPSzMYLHk108c7n45agLWmKI8v0qYd9g/view?usp=sharing)
 
 ## Backend Services
 

@@ -7,6 +7,8 @@ This repository contains four projects:
 - media-service (Spring Boot + Local file storage, can be extended to S3/MinIO)
 - frontend-app (React + TypeScript)
 
+[Watch Video here](https://drive.google.com/file/d/1hPSzMYLHk108c7n45agLWmKI8v0qYd9g/view?usp=sharing)
+
 ## Backend Services
 
 ### 1. course-service

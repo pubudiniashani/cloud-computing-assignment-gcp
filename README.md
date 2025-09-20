@@ -40,3 +40,11 @@ Here is the demo video of the project.
 ## LICENSE
 
 This project is licensed under the [MIT License](LICENSE)
+
+## Student Information
+
+Pubudini ashani
+
+2301671010
+
+pubudiniashani2000@gmail.com
